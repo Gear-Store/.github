@@ -1,6 +1,6 @@
 
 <p align=center>
-<image src = "../assets/logo_full.png" >
+<image src = "https://github.com/Gear-Store/.github/blob/main/assets/logo_full.png" >
 </p>
   
 ## Hi there 👋
