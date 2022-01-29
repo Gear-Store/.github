@@ -1,6 +1,8 @@
-# <p align="center">Gear Store
-<p align="center">
 
+<p align=center>
+<image src = "../assets/logo_full.png" >
+</p>
+  
 ## Hi there 👋
 
 - Welcome to gearstore.in
